@@ -6,7 +6,8 @@ This is a frontend clone of [Daraz.pk](https://www.daraz.pk/) built using **HTML
 
 ## Preview
 
-![image](https://github.com/user-attachments/assets/97a3a711-0af6-41b8-8015-d65f2c558cd1)
+![image](https://github.com/user-attachments/assets/ee1aee71-efc0-4c90-b11b-7f18dc2abe07)
+
 
 ---
 
